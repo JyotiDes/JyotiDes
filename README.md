@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @JyotiDes
-- 👀 I'm interested in spreading knowledge about the field of bioinformatics and helping new bioinformatics students overcome the difficulties they face during their learning phase.
-- 🌱 I'm currently learning new aspects of bioinformatics through machine learning and deep learning.
-- 💞️ I’m looking to collaborate on Bioinformatics, Computational Biology, Machine Learning, and Deep Learning,
